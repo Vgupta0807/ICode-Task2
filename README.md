@@ -1,4 +1,3 @@
-# ICode-Task2
 # Weather App ☀️🌦️🌧️
 Welcome to the Weather App! 🌤️🌡️🌈
 
